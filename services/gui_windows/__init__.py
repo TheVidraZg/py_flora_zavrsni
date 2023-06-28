@@ -1,0 +1,1 @@
+from all_windows import open_main_window
